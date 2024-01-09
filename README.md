@@ -38,6 +38,7 @@
 
 19. Click on Save changes.
 
-#For steps with screesnhots, check out - https://medium.com/@ranjitkhadka99/how-to-configure-s3-static-website-in-aws-93deb2f426d7
+#For steps with screesnhots, swicth over to thw wiki tab https://github.com/rkhadka99/Hosting-a-Static-Site-in-AWS-S3/wiki#15-type-confirm-and-click-on-confirm
+or check out - https://medium.com/@ranjitkhadka99/how-to-configure-s3-static-website-in-aws-93deb2f426d7
 
 

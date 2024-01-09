@@ -38,5 +38,6 @@
 
 19. Click on Save changes.
 
+#For steps with screesnhots, check out - https://medium.com/@ranjitkhadka99/how-to-configure-s3-static-website-in-aws-93deb2f426d7
 
 
